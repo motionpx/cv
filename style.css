@@ -4,9 +4,9 @@ body {
 
 .container {
     width: 900px;
-    height: 842px;
     margin: 0 auto;
     margin-top: 30px;
+    margin-bottom: 25px;
 }
 
 .flex {
@@ -17,13 +17,11 @@ body {
 .sidebar {
     width: 300px;
     background-color: #233A5F;
-    height: 842px;
 }
 
 .main {
     width: 600px;
     background-color: #FFFFFF;
-    height: 842px;
 }
 
 .sidebar-container {
@@ -174,4 +172,8 @@ code {
     line-height: 28px;
     padding-left: 25px;
     margin-top: 8px;
+}
+
+code {
+    font-size: 12px;
 }
